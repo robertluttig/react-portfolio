@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-portfolio"]=this["webpackJsonpreact-portfolio"]||[]).push([[0],{3:function(e,t,n){e.exports=n(8)},8:function(e,t,n){"use strict";n.r(t);var r=n(0),o=n.n(r),a=n(2);var c=function(){return o.a.createElement("div",null,o.a.createElement("h1",null,"Deploy, Succes!"))};n.n(a).a.render(o.a.createElement(o.a.StrictMode,null,o.a.createElement(c,null)),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.9b5499f7.chunk.js.map
